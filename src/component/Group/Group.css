@@ -1,0 +1,20 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.carddd{
+    width: 91%;
+    margin-left: 50px;
+}
+.text-muted{
+    margin-left: 80px;
+}
+.text-muted:hover{
+    background-color: rgb(255, 253, 105);
+    transition: 2s;
+    transform: scale(1.1);
+}
+.tx{
+    font-size: 14px;
+}
